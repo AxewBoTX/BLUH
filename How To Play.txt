@@ -1,0 +1,54 @@
+Hello There!
+so idk how you got to this point that you downloaded this game
+but now that you have did it i gotta give a smol tutorial on how 
+to play this game
+
+SO
+
+first of all
+the player movement
+you can use WASD keys to move the player around the map
+and you can use the mouse buttons to fire bullets
+
+There is no particular end to this game
+the only end is DEATH
+it is like an endless topdown shooter
+
+There are 2 types of enemies in this game
+1. Basic:
+this is a very cute lil enemy 
+it comes to hug and all
+
+2. Shooter:
+this is a very dangerous enemy
+he will stop when comes in a perticular distance to you
+and once it stops it will start firing fire bullets at you
+like pew! pew!
+
+There are 3 Difficulty Modes in this game
+1. Easy:
+you will be playing the game smoothly and easily
+the enemy spawn rate is normal 
+
+2. Medium:
+in this mode the spawn rate of enemies will slightly increase
+and they will increase in number too
+
+3. Hard:
+The epic gamer chad mode
+you take damage when you touch the window boundaries	
+the enemy spawn rate increase alot
+
+Some healing items are also spawned randomly at the map 
+at specific intervals of time and they dissapear after some time
+there are three healing items
+
+1. Sheild:
+It gives you in total 100 health points
+
+2. Bottle:
+It gives you about 150 health points
+
+3.IDK What is it
+it gives a random amount of health between 50 and 400
+ 
